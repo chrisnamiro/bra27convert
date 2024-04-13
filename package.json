@@ -1,0 +1,29 @@
+{
+  "name": "bra27convert",
+  "version": "1.0.0",
+  "description": "bra27convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haristinana/bra27convert.git"
+  },
+  "keywords": [
+    "bra27convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "haristinana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haristinana/bra27convert/issues"
+  },
+  "homepage": "https://github.com/haristinana/bra27convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
